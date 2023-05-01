@@ -1,1 +1,1 @@
-FROM pilot
+FROM pilot:latest
